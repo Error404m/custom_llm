@@ -5,9 +5,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Parameter Count](https://img.shields.io/badge/Params-~15M-purple)
 
-**MrityunjayaGPT** is a decoder-only Transformer model built entirely from scratch using PyTorch. Unlike pre-trained models accessed via APIs, every component of this Large Language Model (LLM)—from the self-attention mechanism to the training loop—was coded by hand to understand the internal mechanics of Generative AI.
+**MrityunjayaGPT** is a decoder only Transformer model built entirely from scratch using PyTorch. Unlike pre-trained models accessed via APIs, every component of this Large Language Model (LLM) from the self-attention mechanism to the training loop was coded by hand to understand the internal mechanics of Generative AI.
 
-It is trained on the **TinyStories** dataset to demonstrate that a small model (SLM) can learn to speak coherent, grammatically correct English when trained on high-quality, simplified data.
+It is trained on the **TinyStories** dataset to demonstrate that a small model (SLM) can learn to speak coherent, grammatically correct English when trained on high quality, simplified data.
 
 ---
 
